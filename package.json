@@ -1,7 +1,7 @@
 {
   "name": "react_ts",
   "version": "0.1.0",
-  "homepage": "https://github.com/AleksandrChernuk/reactts.git",
+  "homepage": "https://aleksandrchernuk.github.io/reactts/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
